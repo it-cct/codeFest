@@ -1,0 +1,11 @@
+1.Question: Write HTML to create a table with 2 rows and 3 columns. In the second cell of the first row, include a hyperlink to "https://www.example.com" with the text "Visit Example".
+Hint: Nest the a tag inside a td tag. -> HTML
+
+2.Question: Write HTML to create a nested list where the first level contains two items. Each of these items should have a nested list with three items. The second nested list should contain another level of nested lists with two items each.
+Hint: Nest multiple ul tags within li tags. ->HTML
+
+3.Question:Create a horizontal navigation menu with three links: "Home", "About", and "Contact". The links should be clickabel and it should navigate to a new page with a dummy text in each page. Spaced evenly and have no bullet points also they need to be unscroolable also make the background color transparent. -> CSS
+ Hint: Use display: inline-block and remove the default list styling and add other necessary attributes.
+
+4.Question: Write CSS to center a <div> with a class of .box horizontally and vertically within the browser window. The <div> should have a fixed width of 200px and height of 200px.
+Hint: Combine absolute positioning with transformation properties to achieve perfect centering. -> CSS
